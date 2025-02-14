@@ -9,4 +9,5 @@ We always welcome developers to contribute to the open source projects created b
 ### For Employees
 
 [Getting set up on GitHub Cloud](https://ego.bonderbee.com/github-cloud-setup)
+
 [Bonderbee Supports Open Source Projects](https://ego.bonderbee.com/osp)
